@@ -1,0 +1,15 @@
+
+
+.AllHeader {
+    margin-top: 0;
+    display: flex;
+    width: 100%;
+    
+    align-items: center;
+    justify-content: center;
+    background-color: #59B7CC;
+}
+
+.AllHeader h1 {
+    color: aliceblue;
+}

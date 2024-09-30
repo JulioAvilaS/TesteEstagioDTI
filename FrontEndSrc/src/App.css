@@ -1,0 +1,19 @@
+.App {
+  display: block;
+}
+
+.superior{
+  display: flex;
+  flex-direction: column;
+}
+
+.article {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; 
+  padding: 3%;
+}
+
+div {
+  box-sizing: border-box;
+}
