@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Services\\OpAluno.cs",
               "ToolTip": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Services\\OpAluno.cs",
               "RelativeToolTip": "WebApplication1\\Services\\OpAluno.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAswJ0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAUwLkAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "WebApplication1\\Services",
               "WhenOpened": "2024-09-29T23:27:23.042Z",
@@ -97,8 +97,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "WebApplication1\\Interface",
-              "WhenOpened": "2024-09-29T23:23:45.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T23:23:45.813Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T01:09:01.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T01:09:01.356Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\AllContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T00:58:48.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T00:58:48.782Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\AlunosController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T23:36:28.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T23:36:28.05Z"
             },
             {
               "$type": "Document",
@@ -186,8 +182,7 @@
               "RelativeToolTip": "WebApplication1\\Shared\\Constantes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:56:33.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:56:33.004Z"
             },
             {
               "$type": "Document",

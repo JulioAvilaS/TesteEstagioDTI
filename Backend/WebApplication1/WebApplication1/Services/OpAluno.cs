@@ -187,12 +187,12 @@ namespace WebApplication1.Services
 
             if (alunoRemovido != null)
             {
-                alunosInArq.Remove(alunoRemovido); // Removendo apenas o primeiro aluno encontrado.
+                alunosInArq.Remove(alunoRemovido);
 
                 string arqContent = JsonConvert.SerializeObject(alunosInArq, Formatting.Indented);
                 File.WriteAllText("Data/Alunos.json", arqContent);
 
-                alunos = alunosInArq; // Atualizando a lista em memória, se necessário.
+                alunos = alunosInArq; 
             }
 
             return alunoRemovido;
