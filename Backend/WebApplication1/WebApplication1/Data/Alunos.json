@@ -1,1 +1,15 @@
-[{"Id":"7bd45e4d-efa9-4cc0-936c-6e256c86f1d4","Name":"Júlio","Frequencia":100.0,"Materias":[9,9,9,9,9],"Media":9.0},{"Id":"b842a7cb-3e5e-4a11-be02-78ecfe719429","Name":"Igor","Frequencia":100.0,"Materias":[10,10,10,10,10],"Media":10.0}]
+[
+  {
+    "Id": "7bd45e4d-efa9-4cc0-936c-6e256c86f1d4",
+    "Name": "Júlio",
+    "Frequencia": 100.0,
+    "Materias": [
+      9,
+      9,
+      9,
+      9,
+      9
+    ],
+    "Media": 9.0
+  }
+]

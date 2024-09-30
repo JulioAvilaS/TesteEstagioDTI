@@ -54,7 +54,7 @@ namespace WebApplication1.Services
                 throw new ArquivoVazioException("O Arquivo está vazio");
             }
             return alunos = JsonConvert.DeserializeObject<List<Aluno>>(json);
-            
+
 
 
         }
@@ -168,16 +168,36 @@ namespace WebApplication1.Services
                 throw new ArquivoVazioException("O Arquivo está vazio");
             }
 
-            List<Aluno>? alunosInArq = JsonConvert.DeserializeObject<List<Aluno>>(json);
+            List<Aluno>? alunosInArq;
+            try
+            {
+                alunosInArq = JsonConvert.DeserializeObject<List<Aluno>>(json);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Erro ao deserializar o arquivo JSON: " + ex.Message);
+            }
 
-            var alunoRemovido = alunosInArq?.FirstOrDefault(x => x.Name?.ToLower() == name?.ToLower());
+            if (alunosInArq == null || alunosInArq.Count == 0)
+            {
+                throw new ListaAlunosVazioException("A lista de alunos está vazia");
+            }
+
+            var alunoRemovido = alunosInArq.FirstOrDefault(x => x.Name?.ToLower() == name?.ToLower());
 
             if (alunoRemovido != null)
             {
-                alunosInArq?.RemoveAll(x => x.Name?.ToLower() == name?.ToLower());
+                alunosInArq.Remove(alunoRemovido); // Removendo apenas o primeiro aluno encontrado.
+
+                string arqContent = JsonConvert.SerializeObject(alunosInArq, Formatting.Indented);
+                File.WriteAllText("Data/Alunos.json", arqContent);
+
+                alunos = alunosInArq; // Atualizando a lista em memória, se necessário.
             }
 
             return alunoRemovido;
         }
+
+
     }
 }

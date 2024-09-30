@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\services\\opaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\opaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\interface\\iopaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interface\\iopaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\services\\opaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\opaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\models\\allcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\allcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\shared\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\exceptions\\arquivovazioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\exceptions\\arquivovazioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\interface\\iopaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interface\\iopaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\exceptions\\erroaodeletarexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\unittests\\opalunotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\unittests\\opalunotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|c:\\users\\j\u00FAlio \u00E1vila\\documents\\dti\\testeestagio\\backend\\webapplication1\\webapplication1\\models\\allcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A1D4FB-BCB9-46AB-B594-415500359D57}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\allcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ListaAlunosVazioException.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Exceptions\\ListaAlunosVazioException.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Exceptions\\ListaAlunosVazioException.cs",
@@ -70,18 +70,17 @@
               "RelativeToolTip": "WebApplication1\\Exceptions\\ListaAlunosVazioException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T02:34:55.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T02:34:55.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OpAluno.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Services\\OpAluno.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\OpAluno.cs",
               "ToolTip": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Services\\OpAluno.cs",
               "RelativeToolTip": "WebApplication1\\Services\\OpAluno.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAmwJoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAswJ0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "WebApplication1\\Services",
               "WhenOpened": "2024-09-29T23:27:23.042Z",
@@ -89,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IOpAluno.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Interface\\IOpAluno.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interface\\IOpAluno.cs",
@@ -103,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -112,12 +111,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "WebApplication1",
-              "WhenOpened": "2024-09-29T20:03:43.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T20:03:43.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ArquivoVazioException.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Exceptions\\ArquivoVazioException.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Exceptions\\ArquivoVazioException.cs",
@@ -125,12 +123,11 @@
               "RelativeToolTip": "WebApplication1\\Exceptions\\ArquivoVazioException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:47:24.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:47:24.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Aluno.cs",
@@ -143,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "AllContext.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Models\\AllContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\AllContext.cs",
@@ -156,20 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AlunosController.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Controllers\\AlunosController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AlunosController.cs",
               "ToolTip": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T23:36:28.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ParametroVazioException.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Exceptions\\ParametroVazioException.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Exceptions\\ParametroVazioException.cs",
@@ -177,12 +174,11 @@
               "RelativeToolTip": "WebApplication1\\Exceptions\\ParametroVazioException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:49:18.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:49:18.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Constantes.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Shared\\Constantes.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Shared\\Constantes.cs",
@@ -195,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OpAlunoTest.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\UnitTests\\OpAlunoTest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\UnitTests\\OpAlunoTest.cs",
@@ -203,12 +199,11 @@
               "RelativeToolTip": "WebApplication1\\UnitTests\\OpAlunoTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T20:05:34.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T20:05:34.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ErroAoDeletarException.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio \u00C1vila\\Documents\\DTI\\TesteEstagio\\Backend\\WebApplication1\\WebApplication1\\Exceptions\\ErroAoDeletarException.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Exceptions\\ErroAoDeletarException.cs",
@@ -216,12 +211,7 @@
               "RelativeToolTip": "WebApplication1\\Exceptions\\ErroAoDeletarException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:54:11.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "WhenOpened": "2024-09-29T19:54:11.757Z"
             }
           ]
         }

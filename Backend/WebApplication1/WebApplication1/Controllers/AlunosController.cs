@@ -59,18 +59,14 @@ namespace WebApplication1.Controllers
         [HttpPost("Insert")]
         public ActionResult<Aluno> InserirAluno(Aluno? aluno)
         {
-            try
-            {
+            
                 if (aluno != null)
                 {
                     var alunoInserido = _serviceAluno.AddAluno(aluno);
                     _serviceAluno.SalvarAlunos();
                     return Ok(alunoInserido);
                 }
-            }
-            catch (Exception ex) { 
-            }
-            
+
             return BadRequest("Erro ao inserir aluno");
         }
 

@@ -233,3 +233,4 @@ C:\Users\Júlio Ávila\Documents\DTI\TesteEstagio\Backend\WebApplication1\WebApp
 C:\Users\Júlio Ávila\Documents\DTI\TesteEstagio\Backend\WebApplication1\WebApplication1\bin\Debug\net8.0\Moq.dll
 C:\Users\Júlio Ávila\Documents\DTI\TesteEstagio\Backend\WebApplication1\WebApplication1\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\Júlio Ávila\Documents\DTI\TesteEstagio\Backend\WebApplication1\WebApplication1\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Júlio Ávila\Documents\DTI\TesteEstagio\Backend\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
