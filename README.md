@@ -65,7 +65,7 @@ Existem várias formas de se rodar o projeto, porém, irei recomendar apenas uma
 Com o projeto já clonado, abra a pasta `FrontEnd` no `Visual Studio Code` e execute os comandos em ordem:
 
 ```sh
- cd classe-professor-carlos/src # Ir até o diretório principal do projeto
+ cd src # Ir até o diretório principal do projeto
 ```
 
 ```sh
@@ -73,7 +73,7 @@ npm install # Instalar as dependências do projeto
 ```
 
 ```sh
-npm run dev #Inicializa o projeto na porta 3000
+npm start #Inicializa o projeto na porta 3000
 ```
 
 Para acessar o frontend acesse o link: `http://localhost:3000`
